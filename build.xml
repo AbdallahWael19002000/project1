@@ -1,0 +1,16 @@
+<project defult = "compile">
+<property name = "src.java.dir"   location = ""   >
+<property name = "src.test.dir"   location = ""   >
+<property name = "result.dir"   location = ""   >
+<property name = "reasult.javaclasses.dir"   location = ""   >
+<property name = "result.testclasses.dir"   location = ""   >
+<property name = "result.jar.file"   location = ""   >
+
+<target name="compile">
+
+
+</target>
+
+
+
+</project>
